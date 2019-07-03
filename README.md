@@ -1,8 +1,8 @@
 # CalculatePi
-A Java console application to calculate Pi using Ramanujan's formula
+A Java console application that calculates the number Pi using Ramanujan's formula with multi-threading for the sum calculation.
 
-The formula used in this application is Ramanujan 2.
-For more info click [here](https://keisan.casio.com/exec/system/1355104874 "Ramanujan Calculator")
+The formula used in this application is Ramanujan (2) from [here](https://keisan.casio.com/exec/system/1355104874 "Ramanujan Calculator")
+
 ## Running the application
 1. Download .jar file from out/artifacts/CalculatePi_jar
 
@@ -11,5 +11,3 @@ For more info click [here](https://keisan.casio.com/exec/system/1355104874 "Rama
     * ```-t <threads>``` Indicates the number of threads to use for the calculation.
     * ```-o <output>``` Indicates where the calculation will be output.
     * ```-q <quiet>``` Run program in "quiet" mode
-    
-    
