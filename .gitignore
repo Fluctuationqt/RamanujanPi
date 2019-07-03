@@ -1,0 +1,5 @@
+#Ignored files from git
+.idea/
+out/*
+!out/artifacts/
+*.txt
